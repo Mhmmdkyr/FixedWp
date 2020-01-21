@@ -7,14 +7,14 @@ It is very simple to use.
 - Download fixedwp.js and include in your page. (Just below jquery)
 
 Basic Usage;
-
+```html
 $('body').fixedwp({
   number: '+1234567890',
   text: 'Hi! How are you?'
 });
-
+```
 All Options;
-
+```html
 $('body').fixedwp({
     number: "+1234567890",
     text: "Hi. How are you?",
@@ -27,5 +27,5 @@ $('body').fixedwp({
     align_left: "auto",
     padding: "17px"
 });
-
+```
 That is all!
