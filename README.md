@@ -3,17 +3,20 @@ Hi all!
 Add Whatsapp fixed button for your website.
 It is very simple to use.
 
+### Screenshot ###
+![Screenshot](https://raw.githubusercontent.com/Mhmmdkyr/FixedWp/V.1.0.0/Screenshot_2.jpg)
+
 - You must use jQuery.
 - Download fixedwp.js and include in your page. (Just below jquery)
 
-Basic Usage;
+### Basic Usage ###
 ```html
 $('body').fixedwp({
   number: '+1234567890',
   text: 'Hi! How are you?'
 });
 ```
-All Options;
+### All Options ###
 ```html
 $('body').fixedwp({
     number: "+1234567890",
